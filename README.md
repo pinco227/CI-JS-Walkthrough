@@ -1,4 +1,4 @@
-[![Screenshot](https://github.com/pinco227/CI-JS-Walkthrough/blob/main/images/screenshot.png)](https://pinco227.github.io/CI-JS-Walkthrough/)
+[![Screenshot](https://github.com/pinco227/CI-JS-Walkthrough/blob/master/images/screenshot.png)](https://pinco227.github.io/CI-JS-Walkthrough/)
 # Code Institute Walkthrough Project
 ## Love Maths
 ### Using JavaScript
